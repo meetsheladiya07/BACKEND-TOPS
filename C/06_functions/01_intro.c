@@ -9,9 +9,9 @@
 	
 	2) user defined : user create 
 		4) category 
-		1) without paramter and without return 
-		2) without paramter and with return 
-		3) with paramerter and without return 
-		4) with paramter and with return  
+		1) without parameter and without return 
+		2) without parameter and with return 
+		3) with parameter and without return 
+		4) with parameter and with return  
 
 */

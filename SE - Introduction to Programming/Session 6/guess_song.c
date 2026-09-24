@@ -1,9 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
-#include<stdlib.h>
-#include<string.h>
 
-voud main() {
+
+void main() {
     char songs[3][30] = {
         "Kesariya",
         "Apna Bana Le",
@@ -12,7 +11,6 @@ voud main() {
 
     char guess[30];
     int random;
-
 
     random = rand() % 3;
 

@@ -6,9 +6,8 @@ int main(){
 	FILE *file = fopen("test.txt","a");
 	char str[100];
 	
-//	file 
 	if(file == NULL){
-		printf("Erroring Opeing fie\n");
+		printf("Erroring Opeing file\n");
 		return 1;
 	}
 	
